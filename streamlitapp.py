@@ -67,7 +67,7 @@ st.markdown("""
 
 #######################
 # Load data
-df_reshaped = pd.read_csv('data/us-population-2010-2019-reshaped.csv')
+df_reshaped = pd.read_csv('co2_emissions_kt_by_country.csv')
 
 
 #######################
